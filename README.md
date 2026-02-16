@@ -30,16 +30,9 @@ Check out my latest creation:
 - **Evening:** Next.js magic and making sure the business is scaling. 🚀
 - **Night:** Dreaming in Binary. 01010111.
 
----
-
-## 📊 Boring Stats (That look cool)
-![Brian's Stats](https://github-readme-stats.vercel.app/api?username=Bazanty&show_icons=true&theme=pride)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bazanty&layout=compact&theme=pride)
-
----
-
 ## 📫 Let’s Make Magic!
 Got a million-dollar idea? Or just want to talk about Next.js? 
-Slide into my inbox: **bazantyloffan@gmail.com**
+Slide into my inbox:
+**bazantyloffan@gmail.com**
 
 *"Code is like humor. If you have to explain it, it’s bad."*
