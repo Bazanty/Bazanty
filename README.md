@@ -19,10 +19,7 @@ Welcome to my digital playground! I’m a Full Stack Developer who doesn't just 
 
 ## 🌐 The "Big Deal" (Featured Project)
 I don't just push code; I push **live products**. 
-Check out my latest creation: 
-👉 **[Name of Your Deployed Website]** *(Warning: It's so smooth you might slip! 🧊)*
 
----
 
 ## 📈 My Life in a Nutshell
 - **Morning:** Designing beautiful UI in Figma while drinking too much coffee. ☕
